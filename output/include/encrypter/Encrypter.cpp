@@ -1,7 +1,7 @@
 #include "Encrypter.h"
 
 
-namespace ProCrEncrypter {
+namespace ProCrEncrypter { 
 	
 	PCEncrypter::PCEncrypter(std::string key) {
 	   	this->encryptionKey = key;
